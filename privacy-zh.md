@@ -1,5 +1,7 @@
 # 隐私政策
 
+> **本页已过期。** AnyGraph（原 6DegreesHub）的最新隐私政策见 https://anygraph.holdon.work/privacy-policy ，服务条款见 https://anygraph.holdon.work/terms-of-service 。以下内容仅适用于 1.2 及更早、不含 AnyGraph 云服务的版本。
+
 ## 数据收集
 
 6DegreesHub 不收集、存储或传输任何用户数据。

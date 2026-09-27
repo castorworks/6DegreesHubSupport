@@ -1,5 +1,7 @@
 # Privacy Policy
 
+> **This page is out of date.** The current AnyGraph (formerly 6DegreesHub) privacy policy is at https://anygraph.holdon.work/privacy-policy, and the terms of service at https://anygraph.holdon.work/terms-of-service. The text below only applies to version 1.2 and earlier, which have no AnyGraph Cloud service.
+
 ## Data Collection
 
 6DegreesHub does not collect, store, or transmit any user data.
